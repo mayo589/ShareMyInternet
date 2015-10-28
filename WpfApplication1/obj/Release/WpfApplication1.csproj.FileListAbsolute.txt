@@ -1,0 +1,15 @@
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\Interop.NATUPNPLib.dll
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\Interop.NETCONLib.dll
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.ResolveComReference.cache
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb

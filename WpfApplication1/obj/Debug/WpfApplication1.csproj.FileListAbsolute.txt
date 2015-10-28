@@ -1,0 +1,32 @@
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\Interop.NATUPNPLib.dll
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\Interop.NETCONLib.dll
+I:\SKOLA\5 semester\PV181 Laboratory of security and applied cryptography I\hw08\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+I:\Projects\ShareMyInternet\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+I:\Projects\ShareMyInternet\WpfApplication1\bin\Debug\WpfApplication1.exe
+I:\Projects\ShareMyInternet\WpfApplication1\bin\Debug\WpfApplication1.pdb
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\Interop.NATUPNPLib.dll
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\Interop.NETCONLib.dll
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\WpfApplication1.csproj.ResolveComReference.cache
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\MainWindow.baml
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\MainWindow.g.cs
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\App.g.cs
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\WpfApplication1.exe
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\WpfApplication1.pdb
+I:\Projects\ShareMyInternet\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache

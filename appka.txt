@@ -1,0 +1,11 @@
+http://www.wpf-tutorial.com/wpf-application/handling-exceptions/
+vynumky
+
+
+
+
+http://www.codeproject.com/Articles/25983/How-to-Execute-a-Command-in-C
+
+
+
+cez thready
